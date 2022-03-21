@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+  <head>
+
+    <style>
+
+    
+
+      .eitabixo {
+
+        
+
+        background-color: lightblue;
+
+        border-style: solid;
+
+        width: 100px;
+
+        height: 100px;
+
+        margin: 50px;
+
+        border: 1px solid black;
+
+      }
+
+      
+
+      .eitabixo2 {
+
+        
+
+        background-color: lightblue;
+
+        border-style: solid;
+
+        width: 50px;
+
+        height: 200px;
+
+        margin: 50px;
+
+        border: 1px solid black;
+
+      }
+
+      
+
+      .eitabixo3 {
+
+        
+
+        background-color: lightblue;
+
+        border-style: solid;
+
+        width: 100px;
+
+        height: 100px;
+
+        margin: 50px;
+
+        border: 1px solid black;
+
+        transform: skew(20deg, 30deg);
+
+      }
+
+      .eitabixo4{
+
+        background-color: green;
+
+        border-style: solid;
+
+        width: 100px;
+
+        height: 100px;
+
+        margin: 50px;
+
+        border: 1px solid black;
+
+        transform: rotate(45deg);
+
+      }
+
+      .eitabixo5 {
+
+        
+
+        background-color: lightblue;
+
+        border-style: solid;
+
+        width: 100px;
+
+        height: 100px;
+
+        margin: 50px;
+
+        border: 1px solid black;
+
+        transform: translate(100px, 200px);
+
+      }
+
+    
+
+    </style>
+
+  </head>
+
+    <body>
+
+      
+
+      
+
+      <div class="eitabixo">   </div>
+
+      <div class="eitabixo2">   </div>
+
+      <div class="eitabixo3">   </div>
+
+      <div class="eitabixo4">   </div>
+
+      <div class="eitabixo5">   </div>
+
+      
+
+  </body>
+
+</html>
